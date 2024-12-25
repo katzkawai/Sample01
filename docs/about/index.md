@@ -1,3 +1,3 @@
-## A New Post
+## 本サイトについて
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+マークダウンで作成可能です。
